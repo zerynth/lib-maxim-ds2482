@@ -4,7 +4,7 @@
 DS2482 Module - One Wire
 ************************
 
-This module implements the DS2482 functionalities for all models (100,101 and 800). It also implements a genric OneWire sensor class to be used by libraries dependent on DS2482 (datasheet for 
+This module implements the DS2482 functionalities for all models (100,101 and 800). It also implements a generic OneWire sensor class to be used by libraries dependent on DS2482 (datasheet for 
 `DS2482-100 <https://datasheets.maximintegrated.com/en/ds/DS2482-100.pdf>`_,
 `DS2482-101 <https://datasheets.maximintegrated.com/en/ds/DS2482-101.pdf>`_, and 
 `DS2482-800 <https://datasheets.maximintegrated.com/en/ds/DS2482-800.pdf>`_)
