@@ -1,8 +1,0 @@
-{
-	"version":"1.0.0",
-	"title":"DS2482",
-	"copyright":"Zerynth Team",
-	"files":[
-		["DS2482","ds2482.py"]
-	]
-}

@@ -1,0 +1,13 @@
+---
+description: Driver for Maxim DS2482 Onewire-I2C bridge
+fullname: lib.maxim.ds2482
+info:
+    chip_manufacturer: Maxim
+    chip_name: DS2482
+    name: Onewire-I2C Bridge
+    type: Interface
+keywords:
+- maxim
+- onewire
+title: Maxim DS2482 onewire bridge
+...
